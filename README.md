@@ -126,11 +126,12 @@ Hence, its space complexity is O(1), indicating constant space usage.
 
 Graphical Representation of time complexities of sorting algorithms.
 
-![DAA1](https://github.com/Amos-Mugabi/DAA-Assignment-4/assets/115138015/c5b3de43-8b53-4a3e-b163-a82c449d1cf1)
+![DAA4](https://github.com/Amos-Mugabi/DAA-Assignment-4/assets/115138015/f0bad861-f7e5-44ed-bada-4c329b4c9a29)
 
 
+![DAA3](https://github.com/Amos-Mugabi/DAA-Assignment-4/assets/115138015/df25cc44-81de-4220-9ad9-3ab848a4c506)
 
-![DAA2](https://github.com/Amos-Mugabi/DAA-Assignment-4/assets/115138015/4f54d761-f941-48f6-8412-cf8855f14529)
+
 
 
 In summary, Merge Sort is the most efficient sorting algorithm among the three for large datasets (O(nlogn)). 
